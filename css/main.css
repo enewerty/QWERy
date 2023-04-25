@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-  background-image: url("img/header/bg-header.jpg");
+  background-image: url("../img/header/bg-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -67,7 +67,7 @@ body {
 
 .header__search::before {
   content: '';
-  background-image: url("./img/header/search.svg");
+  background-image: url("../img/header/search.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -191,7 +191,7 @@ body {
 }
 .header__scroll::after {
   content: '';
-  background-image: url("./img/header/arrow-downward-24px.svg");
+  background-image: url("../img/header/arrow-downward-24px.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -265,7 +265,7 @@ body {
 }
 .read-more::after {
   content: '';
-  background-image: url("./img/content/arrow_read_24px.svg");
+  background-image: url("../img/content/arrow_read_24px.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
